@@ -1,0 +1,19 @@
+{
+  "name": "nodejswebsite",
+  "version": "1.0.0",
+  "description": "This is a website built on node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19WDWU02/Node-JS-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19WDWU02/Node-JS-Website/issues"
+  },
+  "homepage": "https://github.com/19WDWU02/Node-JS-Website#readme"
+}
