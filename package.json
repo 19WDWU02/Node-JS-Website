@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/19WDWU02/Node-JS-Website/issues"
   },
-  "homepage": "https://github.com/19WDWU02/Node-JS-Website#readme"
+  "homepage": "https://github.com/19WDWU02/Node-JS-Website#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
